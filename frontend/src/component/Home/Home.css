@@ -138,4 +138,25 @@
     margin: 0 0.5vmax;
     font: 300 1vmax "Roboto";
   }
+
+  .banner > h1 {
+    margin: -6vmax;
+    margin-top: 195px;
+  }
+  .banner > p {
+    margin-left: -15px;
+    font: 300 1.6vmax "Lucida Sans";
+  }
+  .banner > a > button {
+    margin-bottom: 4vmax;
+    cursor: pointer;
+    background-color: #aa9191;
+    border: 1px solid white;
+    border-radius: 16px;
+    padding: 0.5vmax;
+    transition: all 0.5s;
+    width: 7vmax;
+    font: 500 1vmax "Roboto";
+    margin-left: -55px;
+  }
 }

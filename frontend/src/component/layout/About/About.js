@@ -3,6 +3,7 @@ import "./aboutSection.css";
 import { Button, Typography, Avatar } from "@material-ui/core";
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import InstagramIcon from "@material-ui/icons/Instagram";
+import dp from "../../../images/dp.jpg";
 const About = () => {
   const visitInstagram = () => {
     window.location = "https://www.instagram.com/aashishkumar.nayak/";
@@ -18,7 +19,7 @@ const About = () => {
           <div>
             <Avatar
               style={{ width: "10vmax", height: "10vmax", margin: "2vmax 0" }}
-              src="https://instagram.fsxr1-2.fna.fbcdn.net/v/t51.2885-19/321768797_882986739717146_8917675668725993122_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fsxr1-2.fna.fbcdn.net&_nc_cat=102&_nc_ohc=ICXP3eaD3I8AX8GK9CL&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCozieUC81LGsRg4zWHwxeXOXXToyg6tU4Bx-a5bsBJUw&oe=65008043&_nc_sid=8b3546"
+              src={dp}
               alt="Founder"
             />
             <Typography>Aashish Kumar Nayak</Typography>

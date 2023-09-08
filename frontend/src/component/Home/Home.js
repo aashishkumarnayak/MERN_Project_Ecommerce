@@ -31,7 +31,7 @@ const Home = () => {
 
           <div className="banner">
             <p>Welcome to Nayak Online Store</p>
-            <h1>FIND AMAZING PRODUCTS BELOW</h1>
+            <h1></h1>
 
             <a href="#container">
               <button>

@@ -9,3 +9,9 @@
   height: 56px;
   border-radius: 100%;
 }
+@media screen and (max-width: 800px)
+{
+  .logoReactNavbar {
+    width: 140%!important;
+}
+}

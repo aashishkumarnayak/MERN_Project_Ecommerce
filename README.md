@@ -1,7 +1,10 @@
 # View Live
-**View Live** Click [Here](https://nayak-online-store.cyclic.cloud/) **@Nayak Online Store**
-# MERN E-COMMERCE TUTORIAL
-**View Live** Click [Here](https://nayak-online-store.cyclic.cloud/) **@Nayak Online Store**
+
+**View Live** Click [**Here @Nayak Online Store**](https://nayak-online-store.cyclic.cloud/) 
+
+
+# MERN Project E-COMMERCE  - @Nayak Online Store
+
 Hi! My name is **Aashish Kumar Nayak**, 
 
 

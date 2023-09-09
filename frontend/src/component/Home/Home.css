@@ -140,8 +140,8 @@
   }
 
   .banner > h1 {
-    margin: -6vmax;
-    margin-top: 195px;
+    margin: 17%;
+    //margin-top: 195px;
   }
   .banner > p {
     margin-left: -15px;

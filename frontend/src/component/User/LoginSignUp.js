@@ -187,6 +187,7 @@ const LoginSignUp = ({ history, location }) => {
                     onChange={registerDataChange}
                   />
                 </div>
+                <p>(Image size should be less than 750 Kb)</p>
                 <input type="submit" value="Register" className="signUpBtn" />
               </form>
             </div>

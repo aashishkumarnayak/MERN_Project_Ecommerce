@@ -163,7 +163,7 @@ const NewProduct = ({ history }) => {
                 multiple
               />
             </div>
-
+            <p>(Images size should be less than 750 Kb)</p>
             <div id="createProductFormImage">
               {imagesPreview.map((image, index) => (
                 <img key={index} src={image} alt="Product Preview" />

@@ -12,6 +12,7 @@ exports.registerUser = catchAsyncErrors(async (req, res, next) => {
     folder: "avatars",
     width: 150,
     crop: "scale",
+    limit: "50mb",
   });
 
   const { name, email, password } = req.body;

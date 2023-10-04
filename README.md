@@ -7,6 +7,11 @@
 
 Hi! My name is **Aashish Kumar Nayak**, 
 
+● Developed a feature-rich ecommerce platform using MERN stack, adhering to the MVC(Model-View-Controller) code structure.
+● Implemented a responsive React front-end, ensuring an engaging user experience.
+● Designed advanced product filtering options, allowing users to search by price range, ratings, reviews, category, and more.
+● Implemented JWT-based authentication and bcrypt for user security and utilized Stripe API for secure payment processing.
+● Efficiently managed product data using MongoDB and and deployed the application on Cyclic Cloud for scalability
 
 # Install Dependencies
 
